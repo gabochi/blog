@@ -1,9 +1,9 @@
 # main text of home
-title: John Doe
-bio: A Person who travels the world eating noodles
+title: GEDE
+bio: Artista digital y filósofo
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Un blog personal sobre cosas
 
 # if it's an external image, update below for true
 # better with square images
@@ -34,12 +34,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+#facebook: myfacebook
+twitter: https://twitter.com/gabovinazza
+instagram: https://instagram.com/gabovinazza
+#linkedin: mylinkedin
+github: https://github.com/gabochi/
+email: gabriel.andres@vinazza.com.ar
 
 authors:
   johndoe:
@@ -69,10 +69,10 @@ pagination:
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+#projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: true
+#about: true
 blog: true
 
 # do you want to show the "read time" of the posts?
@@ -88,7 +88,7 @@ related: true
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+#show-author: true
 
 # do you want some animations?
 animation: true
