@@ -9,7 +9,7 @@ tag:
 star: true
 category: blog
 author: gede
-description: Qué es todo esto
+description: Por qué hice este blog
 ---
 
 # Un blog de cosas
