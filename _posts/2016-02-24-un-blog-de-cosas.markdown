@@ -5,8 +5,7 @@ date: 2023-04-23
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- elements
+- blog
 star: true
 category: blog
 author: gede
