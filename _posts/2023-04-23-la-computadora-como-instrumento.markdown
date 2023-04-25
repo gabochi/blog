@@ -1,7 +1,7 @@
 ---
 title: "La computadora como instrumento"
 layout: post
-date: 2016-02-24 22:48
+date: 2023-04-23 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
