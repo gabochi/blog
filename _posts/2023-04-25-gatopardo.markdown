@@ -1,7 +1,7 @@
 ---
 title: "Gatopardismo 3.0"
 layout: post
-date: 2023-04-24
+date: 2023-04-25
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
