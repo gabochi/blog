@@ -24,11 +24,16 @@ Uno de los problemas más famosos de la programación es el “halting problem�
 En Volver al Futuro, el protagonista viaja al pasado y provoca un accidente que impide que su padre y su madre se conozcan. Tiene, entonces, que lograr que se conozcan porque, de lo contrario, él mismo no nacerá. Pero si no nace tampoco puede viajar en el tiempo e impedir que su padre y su madre se conozcan. Es decir, suponer que es posible que alguien viaje en el tiempo e impida su propio nacimiento conduce a una paradoja, algo imposible, indecidible, irresoluble. Podemos concluir, entonces, que no es posible viajar en el tiempo (al menos en estos términos). Tal cosa en lógica se llama “reducción al absurdo”. Si una suposición nos conduce a una contradicción podemos afirmar que lo que supusimos no puede darse (sin destruir al universo).
 El “halting problem” es como la paradoja del viaje en el tiempo pero con programas de computadora. 
 
-0- Supongamos que existe un programa **A** que nos puede decir si otro programa se va a detener en algún momento o se va a colgar para siempre. Con esto en mente:
-	1– Para probar nomás, hagamos un programa **B** que cuente hasta diez y termine.
-	2- Preguntémosle a **A** por **B**. Nos dirá que se va a detener y, en efecto, al llegar a diez **B** finaliza. ¡Excelente!
-	3- Ahora sí, para joder un poco, hagamos otro programa **C** que haga lo contrario de lo que diga **A** a ver qué pasa.
-	4- Preguntémosle otra vez a **A** por **B**.  Como nos dice que **B** se va a detener, **C** se va a colgar. ¡Esto va muy bien!
-	5- ¿La quieren cagar? Preguntémosle a **A** por **C**. Si **A** nos dice que **C** se va a detener, **C** se va a colgar y si **A** nos dice que **C** se va a colgar, **C** se va a detener. 
+Supongamos que existe un programa **A** que nos puede decir si otro programa se va a detener en algún momento o se va a colgar para siempre. Con esto en mente:
+
+1– Para probar nomás, hagamos un programa **B** que cuente hasta diez y termine.
+
+2- Preguntémosle a **A** por **B**. Nos dirá que se va a detener y, en efecto, al llegar a diez **B** finaliza. ¡Excelente!
+
+3- Para joder un poco, escribamos otro programa **C** que haga lo contrario de lo que dice **A** a ver qué pasa.
+
+4- Preguntémosle otra vez a **A** por **B**.  Como nos dice que **B** se va a detener, **C** se va a colgar. ¡Esto va muy bien!
+
+5- ¿La quieren cagar? Preguntémosle a **A** por **C**. Si **A** nos dice que **C** se va a detener, **C** se va a colgar y si **A** nos dice que **C** se va a colgar, **C** se va a detener. 
 
 Acabamos de destruir al universo.
