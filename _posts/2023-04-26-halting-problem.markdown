@@ -1,13 +1,12 @@
 ---
 title: "Halting Problem por reducción al absurdo"
 layout: post
-date: 2023-04-25
+date: 2023-04-26
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- web3
-- Bajtin
-- cultura popular
+- halting problem
+- lógica
 category: blog
 author: gede
 description: Turing McFly 
