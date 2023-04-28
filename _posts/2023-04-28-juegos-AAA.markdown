@@ -1,3 +1,17 @@
+---
+title: "Videojuegos AAA"
+layout: post
+date: 2023-04-28
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- videojuegos
+- industria cultural
+category: blog
+author: gede
+description: Un poco de historia así nomás e industria cultural
+---
+
 # Videojuegos AAA
 
 Vamos a hacer un stream con Cat sobre videojuegos. Si sale bien, seguramente vamos a hacer otros. La idea es ir conversando sobre diferentes tópicos. Este va a ser sobre “AAA”. Los juegos AAA son como una película de Avengers (aunque no tan malos, todavía). Productos con muchísimo presupuesto, de empresas muy grandes y con diseñadorxs conocidxs. Son los mejores representantes de la industria cultural.
