@@ -1,4 +1,19 @@
+---
+title: "¿Quién vela por los derechos laborales de la IA?"
+layout: post
+date: 2023-04-29
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- filosofía
+- divulgación
+category: blog
+author: gede
+description: La IA no tiene feriados
+---
+
 # ¿Quién vela por los derechos laborales de la IA?
+## la IA no tiene feriados
 
 Hace rato los feeds de todas las redes sociales están inundados de noticias y canales o “especialistas” dedicadxs a la Inteligencia Artificial. Por supuesto, hay de todo. Pero principalmente lo que nos ofrecen es una descripción completamente acrítica para obtener atención o ya descaradamente publicidad enmascarada de noticia. Acá hay mucha tela que cortar pero se me ocurrió hacer una observación pertinente a esta fecha.
 
