@@ -5,8 +5,8 @@ date: 2023-04-29
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- filosofía
-- divulgación
+- Marx
+- Inteligencia Artificial
 category: blog
 author: gede
 description: La IA no tiene feriados
