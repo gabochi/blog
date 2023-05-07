@@ -1,5 +1,5 @@
 ---
-title: "Dseñar vs Programar videojuegos"
+title: "Diseñar vs Programar videojuegos"
 layout: post
 date: 2023-05-06
 image: /assets/images/markdown.jpg
