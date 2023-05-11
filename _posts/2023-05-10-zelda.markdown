@@ -1,0 +1,24 @@
+---
+title: "El libro de la Zelda"
+layout: post
+date: 2023-05-10
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- videojuegos
+- mecánica
+- deconstrucción
+category: blog
+author: gede
+description: Mec
+---
+
+# El libro de la Zelda
+## mecánica y deconstrucción
+
+Conozco el Zelda pero después de un breve vistazo del 1 no había vuelto a jugar hasta ayer que, afortunadamente, ya está la imagen del último dando vueltas por ahí para correrlo en un emulador. No sé qué es mejor para los videojuegos, si pagar por los “indies” o piratear los AAA de los verdaderos agentes del mal… Como sea, recién lo empecé y no puedo decir mucho. La historia me parece insultantemente genérica y plana pero tampoco es que eso me interese mucho mientras no me interrumpan a cada rato con cinemáticas. Dicho esto ya es evidente la posición que tengo en la grieta mecánica vs. historia que vamos a conversar con Cat en el stream del viernes.
+
+No me malinterpreten, no es que me desagraden las historias en general sino cómo, cada vez más,  se montan a la fuerza como un apéndice desconectado e inalterable sobre la interactividad. Hace muchos años no había recursos para malgastar en esta porquería pero ahora mismo parece que sobran tantos que cualquier boludez ya tiene horas de largometrajes insufribles inyectados, lores ridículos y hasta trailers. Esto del trailer evidencia hasta qué punto a la gente le genera horror la especificidad del videojuego que lo hace retroceder hasta el cine. Hay dos casos que debería aclarar para que no me tilden de narrofóbico: cuando un juego no interrumpe permanentemente su acción para desarrollar una narrativa (otra narrativa, insisto), no me parece desubicado y hasta creo que es también un gran arte en sí mismo contrastar una mecánica con una historia lo más inconexa posible. El segundo caso arroja más luz sobre la cuestión, es el caso de las aventuras gráficas, donde historia y mecánica están imbricadas, donde no se suspende más que mínimamente la interacción para narrar, es más, donde la mecánica es narrativa y no son dos elementos que pueden analizarse separadamente. En todo caso hablaríamos de la ergonomía, de los controles, pero no de la lógica lúdica. Evidentemente, también hace falta sistematizar mucho más los elementos que componen a un videojuego porque mecánica vs. narrativa puede significar muy poco y cuanto más se atienda a ese debate, menos atención se le prestará a un montón de dimensiones más sutiles. Y cuanto menos sutiles sean nuestras apreciaciones, más pobre será nuestra experiencia. Así que con esto nos cargamos de una vez a toda la metafísica gamer y agreguemos, también, desde la ignorancia hasta la publicidad, incluso la perversión de lxs entusiastas 3.0, a toda la comunicación de videojuegos que lo único que hace es extrapolar categorías baratas y gritar burradas con megáfono, de donde se obtienen las estupideces más grandes, las nuevas y las antiguas, como “los videojuegos hacen violenta a la gente” o “Blizzard es progre porque puso un personaje polisexual”.
+
+Teniendo en cuenta lo del viernes y pensando también en Zelda volví a escuchar la conferencia de Ernesto Castro sobre gameyeurismo. Porque hay que decir todo, hay una cantidad de mierda abrumadora pero también hay cosas buenísimas y la verdad es que siempre es un placer escucharlo a Ernesto. Tanto que, en este caso, mete en dos horas más de lo que se enseña en tres carreras juntas al punto de que resulta inadmisible que periodistas, streamers, analistas, etc. no inviertan esta despreciable cantidad de tiempo para mejorar sustancialmente su calidad. Quizás hagan falta un poco más de horas para seguirle el ritmo pero bueno, por algo se empieza y esto es, como dice el Baity - otro ibérico placer -, la polla. Es más, al escuchar otra vez la conferencia empecé a anotar un montón de otras cosas que venían al caso pero, al ver que eran tantas, desistí de cualquier tipo de síntesis o comentario. Véanla, está en YouTube.  Cuenta, por ejemplo, cómo esta polémica de mecánica vs. historia tuvo lugar en los 90s y cómo se sintetizó de alguna manera en una teoría del videojuego como hábitat. A mí no me parece tan superador, mucho menos sabiendo lo fácil que sería para lxs cryptontxs llevar agua para su molino.
+Lo que quería contar es lo que más me quedó en una primera impresión. Ernesto critica enfáticamente un artículo de una revista muy importante de “game theory” que argumenta que ver jugar no es jugar. Parte de su crítica es su experiencia personal, cuenta cómo disfrutó ver a su hermano menor pasar el Zelda. En el Zelda (ese Zelda, al menos) la princesa tiene un rol pasivo. Es el personaje masculino de Link el que se controla y debe sortear todos los obstáculos, igual que pasa en el Mario. Esgrimiendo un verdadero ejercicio de deconstrucción narrativa, Ernesto explica cómo él sintió que protagonizaba el juego, identificándose con la princesa. 
