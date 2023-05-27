@@ -1,7 +1,7 @@
 ---
 title: "El Anti-Aliasing"
 layout: post
-date: 2023-04-27
+date: 2023-05-27
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
