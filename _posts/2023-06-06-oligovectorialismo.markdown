@@ -1,3 +1,18 @@
+---
+title: "Oligovectorialismo y mierders"
+layout: post
+date: 2023-06-06
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- política
+- arte
+- tecnología
+category: blog
+author: gede
+description: Fernando Castro, McKenzie Wark y Varoufakis
+---
+
 # Oligovectorialismo y mierders
 
 “Dropbox es un secuestrador tecnológico … tienes que ir a que te sodomicen con un hierro candente a la tienda de Apple … si no vas a comprarles un iPhone eres un mierder". Esto comenta Fernando Castro hacia el final de un video recomendando "El capitalismo ha muerto" (o algo así) de McKenzie Wark. Wark coincide con muchxs en pensar que el sistema de producción clásico del capitalismo no existe más. Hoy vivimos en un tecno-feudalismo, un oligo-vectorialismo que entiende signado por	una asimetría en términos de obtención y utilización de datos (Deleuze también usaba la metáfora del vector para referirse a la identificación, categorización y procesamiento del deseo, una dirección en el espacio diluvial del capitalismo).
